@@ -1,0 +1,9 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.dummytron {
+  @extend .jumbotron;
+  @extend .jumbotron-fluid;
+  @extend .my-0;
+  border: 1px solid black;
+}
+
